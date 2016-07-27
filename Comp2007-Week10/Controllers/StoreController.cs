@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using COMP2007_Week10.Models;
+using Comp2007_Week10.Models;
 
-namespace COMP2007_Week10.Controllers
+namespace Comp2007_Week10.Controllers
 {
     public class StoreController : Controller
     {
